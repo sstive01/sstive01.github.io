@@ -2,10 +2,14 @@ body {
 	background-color: white;
 	font-family: Times;
 	color: black;
-	font-size: 12px;
+	font-size: 20px;
 	text-align: center;
 }
 h1 {
-	font-size: 20px;
+	font-size: 30px;
 	font-weight: bold;
+}
+img{
+	width: 300px;
+	height; 315px;
 }
