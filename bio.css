@@ -3,8 +3,8 @@ body{
 	font-family: Times;
 	color: black;
 	font-size: 12px;
-	left-margin: 300px;
-	right-margin: 300px;
+	margin-left: 20%;
+	margin-right: 20%;
 }
 h1 {
 	text-align: center;
