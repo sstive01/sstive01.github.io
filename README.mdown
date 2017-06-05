@@ -1,0 +1,13 @@
+#sstive01.github.io
+
+This assignment required me to create three different HTML webpages: resume, bio, and index. 
+Each HTML file contained its own CSS file.
+  Resume: my resume
+  Bio: a short biography of myself
+  Index: my name, personal photo, and links to the first two webpages.
+
+I had to submit my documents through Github instead of through Git because I was trying to
+figure out how to connect to my sstive01.github.io account since Git was already connected to
+my tuftsdev/sstive01 account. 
+
+Time Spent:
