@@ -5,11 +5,13 @@ body {
 	font-size: 20px;
 	text-align: center;
 }
+
 h1 {
 	font-size: 30px;
 	font-weight: bold;
 }
-img{
+
+img {
 	width: 21%;
 	height: 20%;
 }
